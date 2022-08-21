@@ -76,7 +76,7 @@
     <!-- End Pricing Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
-    @include('main.frequently-asked-questions-section')
+    @include('main.asked-questions-section')
     <!-- End Frequently Asked Questions Section -->
 
     <!-- ======= Contact Section ======= -->
