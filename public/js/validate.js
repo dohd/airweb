@@ -1,10 +1,3 @@
-/**
-* PHP Email Form Validation - v3.4
-* URL: https://bootstrapmade.com/php-email-form/
-* Author: BootstrapMade.com
-*/
-
-
 (function () {
   "use strict";    
 
@@ -17,6 +10,7 @@
     this.querySelector('.sent-message').classList.remove('d-block');
 
     const action = this.getAttribute('action');
+    
     const formData = {};
     [...event.target.elements].forEach(el => {
       formData[el.getAttribute('name')] = el.value;
@@ -30,7 +24,7 @@
     fetch(action, {
       method: 'POST',
       body: JSON.stringify(formData),
-      headers: {'X-CSRF-TOKEN': csrfToken}
+      headers: {'X-CSRF-TOKEN': formData._token}
     })
     .then(response => {
       if (response.ok) return response.json()
