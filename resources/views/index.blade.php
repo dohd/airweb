@@ -101,7 +101,7 @@
   <script src="{{ asset('vendor/waypoints/noframework.waypoints.js') }}"></script>
 
   {{-- Template Main JS File --}}
+  <script src="{{ asset('js/helper.js') }}"></script>
   <script src="{{ asset('js/validate.js') }}"></script>
-  <script src="{{ asset('js/main.js') }}"></script>
 </body>
 </html>
