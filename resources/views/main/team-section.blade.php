@@ -3,16 +3,19 @@
 
       <div class="section-title">
         <h2>Team</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        <p>
+          Airweb Refrigeration (EA) Ltd prides itself in a professional team; trained, skilled and
+          experienced staff, which is our greatest strength
+        </p>
       </div>
 
       <div class="row">
 
-        <div class="col-lg-6">
+        <div class="col-lg-12">
           <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
             <div class="pic"><img src="{{ asset('img/team/team-1.jpg') }}" class="img-fluid" alt=""></div>
             <div class="member-info">
-              <h4>Walter White</h4>
+              <h4>Eng. Francis K. Mwatha</h4>
               <span>Chief Executive Officer</span>
               <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
               <div class="social">
@@ -25,6 +28,7 @@
           </div>
         </div>
 
+        {{-- 
         <div class="col-lg-6 mt-4 mt-lg-0">
           <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
             <div class="pic"><img src="{{ asset('img/team/team-2.jpg') }}" class="img-fluid" alt=""></div>
@@ -75,6 +79,8 @@
             </div>
           </div>
         </div>
+
+         --}}
 
       </div>
 
