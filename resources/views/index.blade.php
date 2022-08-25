@@ -11,7 +11,7 @@
 
   {{-- Favicons --}}
   {{-- <link href="{{ asset('img/favicon.png') }}" rel="icon"> --}}
-  <link href="{{ asset('img/equipments/green-fan.png') }}" rel="icon">
+  <link href="{{ asset('img/equipments/airweb-logo.png') }}" rel="icon">
   {{-- <link href="{{ asset('img/apple-touch-icon.png') }}" rel="apple-touch-icon"> --}}
 
   {{-- Google Fonts --}}
@@ -53,7 +53,7 @@
     {{-- End Why Us Section --}}
 
     {{-- ======= Skills Section ======= --}}
-    @include('main.skill-section')
+    {{-- @include('main.skill-section') --}}
     {{-- End Skills Section --}}
 
     {{-- ======= Services Section ======= --}}
