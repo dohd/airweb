@@ -1,12 +1,12 @@
 <section id="why-us" class="why-us section-bg">
     <div class="container-fluid" data-aos="fade-up">
 
-      <div class="row">
+      <div class="row no-gutters">
 
         <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
           <div class="content">
-            <h3>Eum ipsam laborum deleniti <strong>velit pariatur architecto aut nihil</strong></h3>
+            <h3>Why us? <strong>Reliability and Durability</strong></h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
             </p>
@@ -44,7 +44,14 @@
             </ul>
           </div>
         </div>
-        <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("{{ asset('img/why-us.png') }}");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+        {{-- <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("{{ asset('img/why-us.png') }}");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div> --}}
+        <div 
+          class="col-lg-5 align-items-stretch order-1 order-lg-2 img" 
+          style='background-image: url("{{ asset('img/equipments/fan.png') }}");' 
+          data-aos="zoom-in" data-aos-delay="150"
+          >
+          &nbsp;
+        </div>
       </div>
 
     </div>
