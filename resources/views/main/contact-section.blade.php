@@ -17,19 +17,19 @@
           <div class="address">
             <i class="bi bi-geo-alt"></i>
             <h4>Location:</h4>
-            <p>00100, Nairobi</p>
+            <p>Cross Road View, Hotel Building, <br> Charles Rubia Rd, Nairobi Kenya</p>
           </div>
 
           <div class="email">
             <i class="bi bi-envelope"></i>
             <h4>Email:</h4>
-            <p>info@airweb.com</p>
+            <p>info@airwebrefrigeration.com</p>
           </div>
 
           <div class="phone">
             <i class="bi bi-phone"></i>
             <h4>Call:</h4>
-            <p>+254 000 - 000 - 000</p>
+            <p>+254 722-552-491 <br>+254 733-221-876</p>
           </div>
 
           <iframe 

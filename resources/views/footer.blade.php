@@ -21,11 +21,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Airweb</h3>
             <p>
-              Commercial <br>
-              00100, Nairobi<br>
-              Kenya <br><br>
-              <strong>Phone:</strong> +254 000 - 000 - 000<br>
-              <strong>Email:</strong> info@airweb.com<br>
+              Cross Road View, Hotel Building, Charles Rubia Rd.<br>
+              P.O BOX 17238-00100, <br>
+              Nairobi Kenya.<br>
+              <strong>Phone:</strong> <br>+254 722-552-491 <br>+254 733-221-876<br>
+              <strong>Email:</strong> info@airwebrefrigeration.com<br>
             </p>
           </div>
 
