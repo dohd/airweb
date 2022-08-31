@@ -17,7 +17,7 @@
             <div class="member-info">
               <h4>Eng. Francis K. Mwatha</h4>
               <span>Chief Executive Officer</span>
-              <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+              <p>The heart and soul of a company is creativity and Innovation. <br> ~ Robert Iger</p>
               <div class="social">
                 <a href=""><i class="ri-twitter-fill"></i></a>
                 <a href=""><i class="ri-facebook-fill"></i></a>

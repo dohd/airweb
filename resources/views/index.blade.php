@@ -11,7 +11,7 @@
 
   {{-- Favicons --}}
   {{-- <link href="{{ asset('img/favicon.png') }}" rel="icon"> --}}
-  <link href="{{ asset('img/equipments/airweb-logo.png') }}" rel="icon">
+  <link href="{{ asset('img/logo.png') }}" rel="icon">
   {{-- <link href="{{ asset('img/apple-touch-icon.png') }}" rel="apple-touch-icon"> --}}
 
   {{-- Google Fonts --}}
@@ -40,9 +40,9 @@
   {{-- End Hero --}}
 
   <main id="main">
-    {{-- ======= Clients Section ======= --}}
-    @include('main.client-section')
-    {{-- End Cliens Section --}}
+    {{-- ======= Supplier Section ======= --}}
+    @include('main.supplier-section')
+    {{-- End Supplier Section --}}
 
     {{-- ======= About Us Section ======= --}}
     @include('main.about-us-section')
