@@ -20,3 +20,5 @@ Route::get('/', function () {
 Route::post('contacts/store-contact', function () {
     return response()->json(request()->all());
 })->name('main.contacts.store_contact');
+
+URL::forceScheme('https');
