@@ -18,7 +18,3 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [IndexController::class, 'index'])->name('home');
 
 Route::resource('contacts', ContactController::class);
-
-if (env('APP_ENV') == 'production') {
-    // URL::forceScheme('https');
-}
