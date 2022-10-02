@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\ContactController;
+use App\Http\Controllers\IndexController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,13 +15,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-})->name('home');
+Route::get('/', [IndexController::class, 'index'])->name('home');
 
-Route::post('contacts/store-contact', function () {
-    return response()->json(request()->all());
-})->name('main.contacts.store_contact');
+Route::resource('contacts', ContactController::class);
 
 if (env('APP_ENV') == 'production') {
     URL::forceScheme('https');
