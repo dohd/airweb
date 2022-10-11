@@ -16,11 +16,11 @@
             <div class="pic"><img src="{{ asset('img/team/team-1.jpg') }}" class="img-fluid" alt=""></div>
             <div class="member-info">
               <h4>Eng. Francis K. Mwatha</h4>
-              <span>Chief Executive Officer</span>
+              <span>Chairman</span>
               <p>The heart and soul of a company is creativity and Innovation. <br> ~ Robert Iger</p>
               <div class="social">
+                <a href="https://www.facebook.com/AirwebRefrigerationEALimited"><i class="ri-facebook-fill"></i></a>
                 <a href=""><i class="ri-twitter-fill"></i></a>
-                <a href=""><i class="ri-facebook-fill"></i></a>
                 <a href=""><i class="ri-instagram-fill"></i></a>
                 <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
               </div>

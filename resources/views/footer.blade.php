@@ -21,11 +21,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Airweb</h3>
             <p>
-              Cross Road View, Hotel Building, Charles Rubia Rd.<br>
+              Cross Road View, Complex Building, Charles Rubia Rd.<br>
               P.O BOX 17238-00100, <br>
-              Nairobi Kenya.<br>
-              <strong>Phone:</strong> <br>+254 722-552-491 <br>+254 733-221-876<br>
-              <strong>Email:</strong> info@airwebrefrigeration.com<br>
+              Nairobi CBD.<br>
+              <strong>Phone:</strong> <br>+254 722-552-491 <br>+254 733-221-876<br> +254 729-117-333 <br>
+              <strong>Email:</strong> <br>airwebref@gmail.com<br> info@airweb.co.ke <br>
             </p>
           </div>
 
@@ -47,7 +47,6 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#">Installation</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Repair</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Maintenance</a></li>
-              {{-- <li><i class="bx bx-chevron-right"></i> <a href="#"></a></li> --}}
             </ul>
           </div>
 
@@ -55,8 +54,8 @@
             <h4>Our Social Networks</h4>
             <p>Connect with us on social media</p>
             <div class="social-links mt-3">
+              <a href="https://www.facebook.com/AirwebRefrigerationEALimited" class="facebook"><i class="bx bxl-facebook"></i></a>
               <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
               <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
               <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
               <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>

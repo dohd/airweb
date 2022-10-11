@@ -9,7 +9,7 @@
           </p>
         </div>
         <div class="col-lg-3 cta-btn-container text-center">
-          <a class="cta-btn align-middle" href="#">Call To Action</a>
+          <a class="cta-btn align-middle" href="#"><b>+254 722-144-088</b></a>
         </div>
       </div>
 
