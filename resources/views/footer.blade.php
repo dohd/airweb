@@ -21,7 +21,8 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Airweb</h3>
             <p>
-              Cross Road View, Complex Building, Charles Rubia Rd.<br>
+              Cross Road View, Complex Building, <br>
+              Charles Rubia Rd.<br>
               P.O BOX 17238-00100, <br>
               Nairobi CBD.<br>
               <strong>Phone:</strong> <br>+254 722-552-491 <br>+254 733-221-876<br> +254 729-117-333 <br>
