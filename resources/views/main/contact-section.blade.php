@@ -33,7 +33,7 @@
           </div>
 
           <iframe 
-            src="https://maps.google.com/maps?q=nairobi&t=&z=13&ie=UTF8&iwloc=&output=embed" 
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.2783742214!2d36.8285446!3d-1.2820161!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbbb781b12f48614b!2sAirweb%20Refrigeration%20(EA)%20Ltd!5e0!3m2!1sen!2ske!4v1665551609331!5m2!1sen!2ske"
             frameborder="0"
             style="border:0; width: 100%; height: 290px;" 
             allowfullscreen
