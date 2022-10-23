@@ -13,7 +13,7 @@
 
         <div class="col-lg-12">
           <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-            <div class="pic"><img src="{{ asset('img/team/team-1.jpg') }}" class="img-fluid" alt=""></div>
+            <div class="pic"><img src="{{ asset('img/team/team-1.jpeg') }}" class="img-fluid" alt="chairman-photo"></div>
             <div class="member-info">
               <h4>Eng. Francis K. Mwatha</h4>
               <span>Chairman</span>
