@@ -92,7 +92,7 @@
 
   {{-- Vendor JS Files --}}
   <script src="{{ asset('vendor/aos/aos.js') }}"></script>
-  <script src="{{ asset('vendor/jquery/jquery-3.6.1.min.js') }}"></script>
+  {{-- <script src="{{ asset('vendor/jquery/jquery-3.6.1.min.js') }}"></script> --}}
   <script src="{{ asset('vendor/bootstrap-5.2.0/js/bootstrap.bundle.min.js') }}"></script>
   <script src="{{ asset('vendor/glightbox/js/glightbox.min.js') }}"></script>
   <script src="{{ asset('vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
@@ -102,8 +102,5 @@
   {{-- Template Main JS File --}}
   <script src="{{ asset('js/helper.js') }}"></script>
   <script src="{{ asset('js/validate.js') }}"></script>
-  <script>
-    $('.carousel');
-  </script>
 </body>
 </html>
