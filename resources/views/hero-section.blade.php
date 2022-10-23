@@ -9,14 +9,22 @@
                     We specialize in Air Conditioning, Refrigeration, Mechanical Ventilation, Electrical, Plumbing,
                     & General Construction.
                 </h2>
-                <div class="d-flex justify-content-center justify-content-lg-start">
-                    {{-- <a href="#about" class="btn-get-started scrollto">Get Started</a> --}}
+
+                <div>
+                    <h2 class="text-white d-inline-block mr-3">Call Now!</h2>
+                    <h2 class="text-white d-inline-block  border rounded p-1">+254 722-144-088</h2>
                 </div>
+                
+                {{-- <div class="d-flex justify-content-between justify-content-lg-start">
+                    <a href="#about" class="btn-get-started scrollto">Get Started</a>
+                </div> --}}
             </div>
-            <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
+            {{-- <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
                 <img src="{{ asset('img/hero.png') }}" class="img-fluid animated" alt="">
+            </div> --}}
+            <div class="col-lg-6 order-1 order-lg-2 hero-slider">
+                @include('main.carousel')
             </div>
         </div>
     </div>
 </section>
-@include('main.carousel')
