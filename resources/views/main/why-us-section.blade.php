@@ -1,8 +1,6 @@
 <section id="why-us" class="why-us section-bg">
     <div class="container-fluid" data-aos="fade-up">
-
       <div class="row no-gutters">
-
         <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
           <div class="content">
@@ -53,15 +51,13 @@
             </ul>
           </div>
         </div>
-        {{-- <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("{{ asset('img/why-us.png') }}");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div> --}}
+
         <div 
-          class="col-lg-5 align-items-stretch order-1 order-lg-2 img" 
-          style='background-image: url("{{ asset('img/close-up.jpg') }}");' 
+          class="col-lg-5 order-lg-2 img" 
+          style='background-image: url("{{ asset('img/durability.jpeg') }}");' 
           data-aos="zoom-in" data-aos-delay="150"
           >
-          &nbsp;
         </div>
       </div>
-
     </div>
   </section>
