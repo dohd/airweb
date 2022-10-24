@@ -10,14 +10,19 @@
                     & General Construction.
                 </h2>
 
+                <div class="call-us">
+                    <h2 class="text-white m-0">Call Us Now!</h2>
+                    <h2 class="text-white text-center m-0 border rounded p-1 w-50">+254 722-144-088</h2>
+                </div>
+{{-- 
                 <div class="row">
-                    <div class="col-3">
+                    <div class="col-6">
                         <h2 class="text-white mt-1">Call Us Now!</h2>
                     </div>
                     <div class="col-6">
                         <h2 class="text-white d-inline-block border rounded p-1">+254 722-144-088</h2>
                     </div>
-                </div>
+                </div> --}}
                 
                 {{-- <div class="d-flex justify-content-between justify-content-lg-start">
                     <a href="#about" class="btn-get-started scrollto">Get Started</a>
