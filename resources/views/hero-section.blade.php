@@ -10,9 +10,13 @@
                     & General Construction.
                 </h2>
 
-                <div>
-                    <h2 class="text-white d-inline-block mr-3">Call Now!</h2>
-                    <h2 class="text-white d-inline-block  border rounded p-1">+254 722-144-088</h2>
+                <div class="row">
+                    <div class="col-3">
+                        <h2 class="text-white mt-1">Call Us Now!</h2>
+                    </div>
+                    <div class="col-6">
+                        <h2 class="text-white d-inline-block border rounded p-1">+254 722-144-088</h2>
+                    </div>
                 </div>
                 
                 {{-- <div class="d-flex justify-content-between justify-content-lg-start">
