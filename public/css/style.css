@@ -397,7 +397,7 @@ h6 {
 }
 
 #hero h1 {
-  margin: 0 0 10px 0;
+  margin-bottom: 5px;
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
@@ -406,16 +406,19 @@ h6 {
 
 #hero h2 {
   color: rgba(255, 255, 255, 0.6);
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   font-size: 24px;
 }
 
 #hero .call-us :nth-child(1) {
-  margin-left: 3em!important;
+  margin-left: 2em !important;
+  font-size: 30px;
 }  
 
 #hero .call-us :nth-child(2) {
   margin-left: 5em;
+  width: 12em !important;
+  font-size: 30px;
   background-color: #209dd8;
 }  
 
@@ -487,7 +490,8 @@ h6 {
   }  
 
   #hero .call-us :nth-child(2) {
-    margin-left: 5em !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
     background-color: #209dd8;
   }  
 }
