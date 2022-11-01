@@ -492,6 +492,7 @@ h6 {
   #hero .call-us :nth-child(2) {
     margin-left: auto !important;
     margin-right: auto !important;
+    width: 10em !important;
     background-color: #209dd8;
   }  
 }
