@@ -13,18 +13,21 @@
   <link href="{{ asset('img/airweb_logo.png') }}" rel="icon">
 
   {{-- Google Fonts --}}
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  
+  {{-- Google Search Optimization --}}
+  <meta name="google-site-verification" content="tI635LuGSog3TDahnMQxu9RND1JB6K9GCaylLEo5dsM" />
 
   {{-- Vendor CSS Files --}}
-  <link href="{{ asset('vendor/aos/aos.css') }}" rel="stylesheet">
-  <link href="{{ asset('vendor/bootstrap-5.2.0/css/bootstrap.min.css') }}" rel="stylesheet">
-  <link href="{{ asset('vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
-  <link href="{{ asset('vendor/boxicons/css/boxicons.min.css') }}" rel="stylesheet">
-  <link href="{{ asset('vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
-  <link href="{{ asset('vendor/remixicon/remixicon.css') }}" rel="stylesheet">
-  <link href="{{ asset('vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
+  <link type="text/css" href="{{ asset('vendor/aos/aos.css') }}" rel="stylesheet">
+  <link type="text/css" href="{{ asset('vendor/bootstrap-5.2.0/css/bootstrap.min.css') }}" rel="stylesheet">
+  <link type="text/css" href="{{ asset('vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
+  <link type="text/css" href="{{ asset('vendor/boxicons/css/boxicons.min.css') }}" rel="stylesheet">
+  <link type="text/css" href="{{ asset('vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
+  <link type="text/css" href="{{ asset('vendor/remixicon/remixicon.css') }}" rel="stylesheet">
+  <link type="text/css" href="{{ asset('vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
   {{-- Template Main CSS File --}}
-  <link href="{{ asset('css/style.css') }}" rel="stylesheet">
+  <link type="text/css" href="{{ asset('css/style.css') }}" rel="stylesheet">
 </head>
 
 <body>
