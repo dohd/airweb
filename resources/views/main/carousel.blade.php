@@ -6,11 +6,26 @@
         <button type="button" data-bs-target="#mycarousel" data-bs-slide-to="1"></button>
         <button type="button" data-bs-target="#mycarousel" data-bs-slide-to="2"></button>
         <button type="button" data-bs-target="#mycarousel" data-bs-slide-to="3"></button>
+        <button type="button" data-bs-target="#mycarousel" data-bs-slide-to="4"></button>
+        <button type="button" data-bs-target="#mycarousel" data-bs-slide-to="5"></button>
+        <button type="button" data-bs-target="#mycarousel" data-bs-slide-to="6"></button>
     </div>
 
     {{-- Wrapper for Slides --}}
     <div class="carousel-inner">
         <div class="carousel-item active">
+            <img src="{{ asset('img/airweb-poster.jpg') }}" alt="" class="d-block w-75" height="350">
+        </div>
+        <div class="carousel-item">
+            <img src="{{ asset('img/midea.jpg') }}" alt="" class="d-block w-75" height="350">
+        </div>
+        <div class="carousel-item">
+            <img src="{{ asset('img/recovery-unit.jpg') }}" alt="" class="d-block w-100" height="350">
+        </div>
+        <div class="carousel-item">
+            <img src="{{ asset('img/R410-gas.jpg') }}" alt="" class="d-block w-100" height="350">
+        </div>
+        <div class="carousel-item">
             <img src="{{ asset('img/duct-work.jpeg') }}" alt="" class="d-block w-100" height="350">
         </div>
         <div class="carousel-item">
@@ -18,9 +33,6 @@
         </div>
         <div class="carousel-item">
             <img src="{{ asset('img/plumbing-work.jpeg') }}" alt="" class="d-block w-100" height="350">
-        </div>
-        <div class="carousel-item">
-            <img src="{{ asset('img/raised-floor.jpeg') }}" alt="" class="d-block w-100" height="350">
         </div>
     </div>
 
